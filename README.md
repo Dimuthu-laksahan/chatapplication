@@ -987,21 +987,8 @@ Benchmark improvement: ~40% speedup possible.
 
 <div align="center">
 
-### Special Thanks To
 
-| Project | Contribution |
-|---------|-------------|
-| **[Ollama](https://ollama.ai)** | Local LLM infrastructure |
-| **[LangChain](https://langchain.com)** | LLM orchestration framework |
-| **[FAISS](https://faiss.ai)** | Vector similarity search |
-| **[Sentence-BERT](https://www.sbert.net)** | Text embeddings |
-| **[Streamlit](https://streamlit.io)** | Web UI framework |
-| **[Hugging Face](https://huggingface.co)** | Pre-trained models |
 
-### Community Support
-- Thanks to all contributors and issue reporters
-- Special mention to [Community Names]
-- Inspired by [References]
 
 ### Resources Used
 - [LangChain Documentation](https://docs.langchain.com)
@@ -1011,19 +998,11 @@ Benchmark improvement: ~40% speedup possible.
 
 </div>
 
----
 
-<div align="center">
 
-## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/chatapplication&type=Date)](https://star-history.com/#yourusername/chatapplication&Date)
 
----
-
-### 💬 Made with ❤️ by [Your Name]
-
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Dimuthu-laksahan">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="Follow on GitHub">
 </a>
 
